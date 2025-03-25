@@ -11,7 +11,7 @@ The cart-pole system is a classical control problem, where the objective is to a
 
 Below is an example plot showing the original and normalized PPG signal over time.
 
-![Normalized PPG Signal](tracking theta 1.png)
+![Normalized PPG Signal](tracking_theta.png)
 
 
 ### State-Space Representation
