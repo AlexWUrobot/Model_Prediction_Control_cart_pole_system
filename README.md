@@ -2,10 +2,6 @@
 
 This repository contains a Model Predictive Control (MPC) implementation for a cart-pole system. The goal is to keep the pole balanced by applying forces to the cart using MPC to optimize control inputs over a prediction horizon.
 
-## System Overview
-
-The cart-pole system is a classical control problem, where the objective is to apply forces to a cart such that a pendulum (pole) attached to it remains balanced in the upright position.
-
 
 ## Example Plot
 
