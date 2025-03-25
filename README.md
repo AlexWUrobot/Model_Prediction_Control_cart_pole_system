@@ -6,6 +6,14 @@ This repository contains a Model Predictive Control (MPC) implementation for a c
 
 The cart-pole system is a classical control problem, where the objective is to apply forces to a cart such that a pendulum (pole) attached to it remains balanced in the upright position.
 
+
+## Example Plot
+
+Below is an example plot showing the original and normalized PPG signal over time.
+
+![Normalized PPG Signal](tracking theta 1.png)
+
+
 ### State-Space Representation
 
 The linearized dynamics of the system around the upright position are described by the following state-space model:
