@@ -5,9 +5,13 @@ This repository contains a Model Predictive Control (MPC) implementation for a c
 
 ## Example Plot
 
-Below is an example plot showing the original and normalized PPG signal over time.
+Compare the MPC emphasizes converging cart-position or pole-theta 
 
-![Normalized PPG Signal](tracking_theta.png)
+- Emphasize Cart-position: 10  Theta: 50 in Q matrix
+![](cart_pole_theta.png)
+
+- Emphasize Cart-position: 50  Theta: 10 in Q matrix
+![](cart_pole_pos.png)
 
 ## System Overview
 
